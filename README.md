@@ -1,10 +1,9 @@
 # Entanglement
 Mahnaz Ghorbani, Shahin atashbar Tehrani
 
+mahnazghorbani97@gmail.com
 
-from pathlib import Path
 
-readme = r'''# Quantum Correlations and Nonclassical Light in a Moving Two-Qutrit System
 
 ## Overview
 
